@@ -1,0 +1,13 @@
+name: wlsapp
+title: wlsapp
+username:
+account: wlsapp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2984442
+bundleId: 3754843
+url: https://wlsapp.shinyapps.io/wlsapp/
+when: 1603031052.36042
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|app-challenge.R|app-old.R|icons.R|override.R|refreshRecAssesment|stat_icon_bar_deltaNeg_black.png|stat_icon_bar_deltaNeg_white.png|stat_icon_bar_deltaPos_black.png|stat_icon_bar_deltaPos_white.png|stat_icon_boxplot_iqr_black.png|stat_icon_boxplot_iqr_white.png|stat_icon_normal_dist_black.png|stat_icon_normal_dist_white.png|stat_icon_normal_max_black.png|stat_icon_normal_max_white.png|stat_icon_normal_mean_black.png|stat_icon_normal_mean_white.png|stat_icon_normal_median_black.png|stat_icon_normal_median_white.png|stat_icon_normal_min_black.png|stat_icon_normal_min_white.png|stat_icon_normal_sd_black.png|stat_icon_normal_sd_white.png|stat_icon_ts_deltaDec_black.png|stat_icon_ts_deltaDec_white.png|stat_icon_ts_deltaInc_black.png|stat_icon_ts_deltaInc_white.png|stat_icon_ts_deltaPctDec_black.png|stat_icon_ts_deltaPctDec_white.png|stat_icon_ts_deltaPctInc_black.png|stat_icon_ts_deltaPctInc_white.png
